@@ -1,3 +1,10 @@
+> **Note:** This is my personal fork of the AgroScout capstone project, developed collaboratively by Group 1, Department of Mechatronics Engineering, FUT Minna (April 2026), supervised by Dr. T.A. Folorunso.
+>
+> **My contributions included:** YOLOv8n model training and inference validation · Hardware-in-the-Loop simulation setup · Proteus actuation circuit design · Flask dashboard integration support.
+
+---
+
+
 # 🚜 Agro Weed Scout - Autonomous Precision Agriculture System
 
 ![ROS 2](https://img.shields.io/badge/ROS_2-Jazzy-blue?logo=ros)
